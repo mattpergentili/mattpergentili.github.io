@@ -4,10 +4,10 @@ description = "Guida pratica allo stack lemp e wordpress su ubuntu server 22.04 
 date = "2024-02-19T14:28:54+01:00"
 tags = ["", ""]
 categories = ["", ""]
-draft = true
+draft = false
 +++
 
-## Installare il LEMP stack su Ubuntu 22.04
+## Installare lo stack LEMP su Ubuntu 22.04
 
 Lo stack software LEMP è un gruppo di software che può essere utilizzato per servire pagine web dinamiche e applicazioni web scritte in PHP. Si tratta di un acronimo che descrive un sistema operativo Linux, con un web server Nginx (pronunciato come "Engine-X"). I dati del backend sono memorizzati nel database MySQL e l'elaborazione dinamica è gestita da PHP.
 
